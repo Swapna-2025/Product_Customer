@@ -22,10 +22,9 @@ product_customer.sql: A SQL script containing queries related to customer, order
  SQL (MySQL)
 
 
-**📌 Features / Key Queries:-**
+**📌 Features:-**
 
 
-This project includes SQL queries that:
 
 👉 Retrieve customer information and demographics
 
@@ -51,7 +50,7 @@ This project includes SQL queries that:
 👉 Database schema understanding and normalization concepts
 
 
-**🚀 Insights:-**
+**🚀 SQL Quaries in Details:-**
 
 
 ●	Retrieve all customers. 
@@ -154,7 +153,14 @@ This project includes SQL queries that:
 ●	Use CTE to find top spending customers in the last quarter. 
  
 
-●	Use CASE to categorize customers into bronze/silver/gold based on spending. 
+●	Use CASE to categorize customers into bronze/silver/gold based on spending.
+
+
+
+**✅ Conclusion:-**
+
+
+This project demonstrates the ability to work with a relational database using SQL to uncover valuable business insights. By writing efficient and well-structured queries, we can understand customer behavior, analyze sales performance, and support data-driven decision-making.
 
 
 
