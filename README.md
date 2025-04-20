@@ -38,17 +38,23 @@ product_customer.sql: A SQL script containing queries related to customer, order
 
 
 
-**🧠 Learnings:-**
+**📘 Project Overview:-**
 
 
-👉 Advanced SQL joins and filtering
 
-👉 Grouping and aggregation techniques
+👉 This project showcases a relational database design and implementation using SQL.
 
-👉 Writing clean and efficient queries
+👉 It simulates a retail/customer environment by creating and populating tables such as Customers (and likely others like Products, Orders, etc.). 
+ 
+ 
+ 👉 The database contains fictional data entries and is designed for practicing SQL queries, joins, aggregations, and data analysis techniques.
 
-👉 Database schema understanding and normalization concepts
 
+**🎯 Project Goal:-**
+
+👉 To design, implement, and query a sample database that mimics a real-world business environment—enabling effective practice of SQL fundamentals such as table creation, data insertion, and complex data retrieval operations.
+
+ 
 
 **🚀 SQL Quaries in Details:-**
 
@@ -154,6 +160,25 @@ product_customer.sql: A SQL script containing queries related to customer, order
  
 
 ●	Use CASE to categorize customers into bronze/silver/gold based on spending.
+
+
+
+**✅ Objectives:-**
+
+
+👉 Create relational tables such as Customers, Products, and others with appropriate primary and foreign keys.
+
+👉 Populate each table with sample but realistic data.
+
+👉 Practice and demonstrate proficiency in:
+
+👉 Writing SELECT queries.
+
+👉 Using JOIN, GROUP BY, ORDER BY, WHERE, and other SQL clauses.
+
+👉 Performing CRUD operations on relational data.
+
+👉 Designing schemas that follow normalization principles.
 
 
 
